@@ -21,3 +21,8 @@ $ npm install pg typeorm reflect-metadata --save
 ```
 $ npx typeorm init
 ```
+### Entity에서 사용할 모듈
+```
+$ npm install bcryptjs class-validator class-transformer --save
+$ npm install @types/bcryptjs --save-dev
+```
