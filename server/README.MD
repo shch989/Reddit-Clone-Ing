@@ -13,3 +13,11 @@ $ npm install typescript ts-node @types/node @types/express @types/morgan --save
 ```
 $ npx tsc --init
 ```
+### typeORM 설치
+```
+$ npm install pg typeorm reflect-metadata --save
+```
+### typeORM 설정 파일 생성
+```
+$ npx typeorm init
+```
